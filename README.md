@@ -1,3 +1,3 @@
 # data
 feel free to use my data
-* [implied_autocorrelation.csv](option-implied autocorrelation)
+* [option-implied autocorrelation of the S&P 500 index (daily)](implied_autocorrelation.csv)
